@@ -1,7 +1,7 @@
 package application;
 /**
 * Description: create a flag raising animation while the national anthem plays
-* Created by: Michael O Stewart
+* Created by: Michael Stewart
 * Created date: 4/3/2022
 */
 
